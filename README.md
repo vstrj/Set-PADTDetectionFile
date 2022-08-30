@@ -3,6 +3,8 @@ Function for the Extensions for Powershell Application Toolkit.
 Creates a .tag file that can be used by SCCM or Intune as a detectionmethod.
 Copy the function to AppDeployToolkitExtensions.ps1
 Requires the rest of PADT.
+On to do list
+Add option to choose between reg value or file creation.
 
     .SYNOPSIS
         Creates a detection .tag file to use for intune or SCCM
